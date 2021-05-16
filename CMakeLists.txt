@@ -14,7 +14,6 @@ add_executable(lcd-pacman
 	spi-lcdpacman.c
 	ili9341_spi.c
 	graphlib.c
-	spi-lcdpacman.c
 	pacman2data.c
 	graphlib.h
 	LCDdriver.h
